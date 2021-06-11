@@ -18,7 +18,7 @@ url    : "https://www.xnor-labs.com" # the base hostname & protocol for your sit
 baseurl: "/test_agency_jekyll_theme" # the subpath of your site, e.g. /blog
 
 title      : XNOR Labs LLC
-email      : contactus@xnor-labs.com #this is also the email contact forms will go to
+#email      : example@example.com #this is also the email contact forms will go to
 description: "This is our site"
 author     : XNOR Labs LLC
 # logo:     #optional, defaults to site title
@@ -37,7 +37,7 @@ markdown: kramdown
 
 # Uncomment following line to use Formspree form ID based URL instead of email based URL
 # Details: https://help.formspree.io/hc/en-us/articles/360017735154-How-to-prevent-spam
-# formspree_form_path: "f/a_form_id"
+formspree_form_path: "f/xyyljken"
 
 plugins:
   - jekyll-remote-theme
