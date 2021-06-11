@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: "[Header Title]"
+    text: "[Header Text]"
+    button: "[Header Button]"
     buttonlink: "#services"
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "[Services Text]"
     section: services
     list:
       - title: "E-Commerce"
