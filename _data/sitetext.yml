@@ -130,7 +130,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "[phone number]"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -288,7 +288,7 @@ es: &DEFAULT_ES
 
   contact:
     title: "Contáctenos"
-    text: "Lorem ipsum or call 123456789"
+    text: "[numero]"
     section: contacto
     name: "Nombre*"
     name-validation: "Por favor ingrese su nombre."
